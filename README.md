@@ -1,2 +1,2 @@
 # BDAClass
-This is the BDAClass repo
+This is the trivial git exercise.  
